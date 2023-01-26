@@ -27,7 +27,7 @@ console.log(pokemons)
             </Card.Body>
             <Card.Footer>
               <Row justify='space-between'>
-                <Text>{ name }</Text>
+                <Text transform='capitalize'>{ name }</Text>
                 <Text>#{ id }</Text>
               </Row>
             </Card.Footer>
